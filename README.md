@@ -10,6 +10,10 @@ const aboutMe = {
     moreOfMe: 'founder of #reconectar non governmental organization'
 }
 ```
+
+### Self learning documents repository
+[Here](../capacitaciones) you have a repo with documents for developer who can't read good and want to learn how to do other stuff good too.
+
 ### Technology stack
 <p align="center">
 <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" height="25"/>
