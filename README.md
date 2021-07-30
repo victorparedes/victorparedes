@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Victor Paredes</h1>
+<h1 align="center">Hi!!, I'm Victor Paredes</h1>
 
 ### About me
 ```javascript
@@ -10,8 +10,8 @@ const aboutMe = {
     moreOfMe: 'founder of #reconectar non governmental organization'
 }
 ```
+### Technology stack
 <p align="center">
-<img src="https://img.shields.io/badge/javascript-F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white" height="25"/>
 <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" height="25"/>
 <img src="https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white" height="25"/>
 <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" height="25"/>
@@ -19,7 +19,6 @@ const aboutMe = {
 <img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" height="25"/>
 <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" height="25"/>
 <img src="https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" height="25"/>
-<img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" height="25"/>
 </p>
 
 ###  Statistics and Languages
