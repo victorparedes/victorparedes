@@ -12,7 +12,7 @@ const aboutMe = {
 ```
 
 ### Self learning documents repository
-[Here](../capacitaciones) you have a repo with documents for developer who can't read good and want to learn how to do other stuff good too.
+[Here](https://github.com/victorparedes/capacitaciones) you have a repo with documents for developer who can't read good and want to learn how to do other stuff good too.
 
 ### Technology stack
 <p align="center">
