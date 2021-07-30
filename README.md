@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi!!, I'm Victor Paredes</h1>
+<h1 align="center">Hi!, I'm Victor Paredes</h1>
 
 ### About me
 ```javascript
@@ -22,8 +22,6 @@ const aboutMe = {
 </p>
 
 ###  Statistics
-
-
 <p align="center">
     <img width="48%" src="https://github-readme-stats.vercel.app/api?username=victorparedes&show_icons=true&theme=tokyonight" />
     <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=victorparedes&theme=tokyonight" />
