@@ -21,13 +21,13 @@ const aboutMe = {
 <img src="https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" height="25"/>
 </p>
 
-###  Statistics and Languages
+###  Statistics
 
 
 <p align="center">
     <img width="48%" src="https://github-readme-stats.vercel.app/api?username=victorparedes&show_icons=true&theme=tokyonight" />
     <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=victorparedes&theme=tokyonight" />
 </p>
-<p align="center">
+<!-- <p align="center">
   <img width="48%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=victorparedes&theme=tokyonight" />
-</p>
+</p> -->
