@@ -5,8 +5,8 @@
 ```javascript
 const aboutMe = {
     birthPlace: 'Buenos Aires, Argentina',
-    profession: 'full stack software engineer',
-    interest: ['triathlete', 'inline downhill rider', 'crocodile wrestling'],
+    professions: ['Engineer Manager', 'full stack software engineer'],
+    interests: ['triathlete', 'inline downhill rider', 'crocodile wrestling'],
     moreOfMe: 'founder of #reconectar non governmental organization'
 }
 ```
